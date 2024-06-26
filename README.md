@@ -1,3 +1,5 @@
+![logo](https://github.com/Sudhamoy/Sudhamoy/blob/main/Black%20Trendy%20Gamer%20Youtube%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Sudhamoy Dey</h1>
 <h3 align="center">A passionate Full-Stack developer(MERN) from India</h3>
 
