@@ -3,8 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sudhamoy Dey</h1>
 <h3 align="center">A passionate Full-Stack developer(MERN) from India</h3>
 
-<img align="right" width=400 alt="coding" src="![image](https://github.com/Sudhamoy/Sudhamoy/assets/68435467/d6aac2ea-65e7-48ae-af01-b1c736336241)
-" />
+<img align="right" width=400 alt="coding" src= " https://i.pinimg.com/originals/ec/c3/88/ecc3882e29654a291f8824494979145b.gif " />
 
 - 🌱 I’m currently learning **Spring Boot**
 
